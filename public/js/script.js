@@ -9,6 +9,8 @@ $(document).ready(function () {
       $('.navbar').removeClass("sticky");
     }
   });
+
+  
   
   //smooth scroll
   $(".navbar .menu li a").on("click", function (e) {
@@ -35,6 +37,7 @@ $(document).ready(function () {
       );
     }
   });
+
 
   // toggle menu
   $('.menu-btn').click(function () {
