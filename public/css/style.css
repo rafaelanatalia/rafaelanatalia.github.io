@@ -209,13 +209,13 @@ section .title::after {
 
 .home .home-content a {
     display: inline-block;
-    color: --primaria;
+    color: var(--primaria);
     font-size: 18px;
     padding: 12px 30px;
     margin-top: 20px;
     font-weight: 400;
     border-radius: 6px;
-    border: 2px solid --primaria;
+    border: 2px solid #ffc0ab;
     transition: all 0.3s ease;
 }
 
