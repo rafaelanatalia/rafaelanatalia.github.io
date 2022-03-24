@@ -390,6 +390,9 @@ section .title::after {
 .skills-content .skillsbox .node::before {
     width: 60%;
 }
+.skills-content .skillsbox .react::before {
+    width: 25%;
+}
 
 .skills-content .skillsbox .express::before {
     width: 50%;
